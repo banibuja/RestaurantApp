@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author dell
- *
- */
-module RestaurantApp {
-}
